@@ -9,7 +9,7 @@ export const Bio = {
     "Programmer",
     "Shayer"
   ],
-  description:"I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+  description:"I am an enthusiastic and adaptable individual, constantly seeking out new opportunities for growth. Fueled by a strong desire to expand my knowledge, I am committed to producing top-notch outcomes. With an optimistic outlook and a determination to embrace challenges, I am poised to make a valuable impact and attain remarkable accomplishments.",
   github: "https://github.com/khankadir193",
   resume:"https://www.dropbox.com/preview/Resume/Abdul_Kadir_Khan_Resume.pdf?context=content_suggestions&role=personal",
   linkedin: "www.linkedin.com/in/abdul-kadir-pathan5439",
@@ -26,6 +26,11 @@ export const skills = [
         name: "React Js",
         image:
           "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K",
+      },
+      {
+        name: "Vue Js",
+        image:
+          "https://assets.materialup.com/uploads/77fccd42-2e01-423b-a759-590c5aaa426e/preview.png",
       },
       {
         name: "Redux",
