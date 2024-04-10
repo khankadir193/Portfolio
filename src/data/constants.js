@@ -127,18 +127,19 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: unifo,
+    img: "https://logo.clearbit.com/http://www.melotindia.com",
     role: "Full-stack Developer",
     company: "Melot Group",
     date: "Oct 2023 - Present",
-    desc: "As a Frontend Engineer working on a logistics-based application for Flyjac, I have implemented various features to enhance functionality and improve user experience. Some of the key enhancements I made include:",
+    desc: "As a Full-Stack Developer at Melot Group, I specialize in creating responsive and intuitive web applications. My expertise spans across front-end frameworks like Vue.js and React.js, while I utilize Node.js (Express.js), MongoDB Atlas, and AWS services for the backend infrastructure.With a profound understanding of responsive design principles and cross-browser compatibility, I prioritize adhering to industry best practices for code quality, testing, and documentation.Driven by the ambition to excel, I aim to emerge as a prominent figure in the Full-Stack Development domain.",
     skills: [
       "JavaScript",
       "React JS",
+      "Vue JS",
       "Redux",
       "HTML/CSS",
-      "Material UI",
-      "BootStrap"
+      "AWS",
+      "tailwind css"
     ],
     doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
   },
