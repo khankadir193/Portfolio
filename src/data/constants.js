@@ -84,6 +84,11 @@ export const skills = [
         name: "S3Bucket",
         image:
           "https://miro.medium.com/v2/resize:fit:512/1*cDHe5Q_RDkNt_g-KKxZVcw.png",
+      },
+      {
+        name: "AWS Services",
+        image:
+          "https://cdn.iconscout.com/icon/free/png-256/free-aws-1869025-1583149.png?f=webp",
       }
     ],
   },

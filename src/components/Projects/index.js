@@ -12,7 +12,7 @@ const Projects = ({openModal,setOpenModal}) => {
       <Wrapper>
         <Title>Projects</Title>
         <Desc>
-          I have worked on a wide range of projects. From web apps to android apps. Here are some of my projects.
+        I have been involved in a diverse array of projects, ranging from web applications to other ventures. Below are some examples of my work:
         </Desc>
         <ToggleButtonGroup >
           {toggle === 'all' ?
