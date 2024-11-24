@@ -30,7 +30,7 @@ export const skills = [
       {
         name: "Vue Js",
         image:
-          "https://assets.materialup.com/uploads/77fccd42-2e01-423b-a759-590c5aaa426e/preview.png",
+          "https://img.icons8.com/?size=100&id=rY6agKizO9eb&format=png&color=000000",
       },
       {
         name: "Redux",
