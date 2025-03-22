@@ -1,18 +1,20 @@
 import vit from '../images/vit.jpeg'
 import mcrp from '../images/MCRP.png'
 import unifo from '../images/unifo.png'
+import ramwapur from '../images/ramwapur.jpg'
 
 export const Bio = {
   name: "Abdul Kadir Khan",
   roles: [
+    "Software Engineer",
     "FullStack Developer",
     "Programmer",
     "Shayer"
   ],
   description:"I am an enthusiastic and adaptable individual, constantly seeking out new opportunities for growth. Fueled by a strong desire to expand my knowledge, I am committed to producing top-notch outcomes. With an optimistic outlook and a determination to embrace challenges, I am poised to make a valuable impact and attain remarkable accomplishments.",
   github: "https://github.com/khankadir193",
-  resume:"https://www.dropbox.com/preview/Resume/Abdul_Kadir_Khan_Resume.pdf?context=content_suggestions&role=personal",
-  linkedin: "www.linkedin.com/in/abdul-kadir-pathan5439",
+  resume:"https://drive.google.com/file/d/15DFrthzE_GHLRoRVo6NP8zVDdV31urHZ/view?usp=sharing",
+  linkedin: "https://www.linkedin.com/in/abdul-kadir-pathan5439/",
   twitter: "https://twitter.com/abdulkadir85646",
   insta: "https://instagram.com/abdul_kadir_pathan786?igshid=MzNlNGNkZWQ4Mg==",
   facebook: "https://www.facebook.com/profile.php?id=100009120728312",
@@ -205,7 +207,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://methodistschool-dankuni.webs.com/NEW%20BADGE.jpg",
+    img: ramwapur,
     school: "Sardar Patel Rajmati Devi Intermedite College Bargadva Ramvapur Siddharth Nagar",
     date: "July 2015 - May 2016",
     grade: "79%",
@@ -214,7 +216,7 @@ export const education = [
   },
   {
     id: 3,
-    img: "https://methodistschool-dankuni.webs.com/NEW%20BADGE.jpg",
+    img: ramwapur,
     school: "Sardar Patel Rajmati Devi Intermedite College Bargadva Ramvapur Siddharth Nagar",
     date: "July 2013 - May 2014",
     grade: "77%",
