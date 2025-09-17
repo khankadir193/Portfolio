@@ -134,10 +134,26 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
+    img: "https://images.jdmagicbox.com/v2/comp/mumbai/83/022p1914083/catalogue/fugetron-corporation-factory--andheri-east-mumbai-sensor-manufacturers-1rr8ax6yop-250.jpg",
+    role: "Software Engineer",
+    company: "FugetronCorp",
+    date: "Jan 2025 - Present",
+    desc: "As a Software Engineer at FugetronCorp, I develop and optimize dynamic, scalable, and responsive SPAs using React.js, JavaScript, and AWS Amplify. I build core modules from scratch, enhance UI/UX, and collaborate with cross-functional teams to improve the performance and functionality of application.",
+    skills: [
+      "JavaScript",
+      "React JS",
+      "Redux",
+      "HTML/CSS",
+      "AWS",
+    ],
+    doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
+  },
+  {
+    id: 1,
     img: "https://logo.clearbit.com/http://www.melotindia.com",
-    role: "Full-stack Developer",
+    role: "Web Developer",
     company: "Melot Group",
-    date: "Oct 2023 - Present",
+    date: "Oct 2023 - Dec 2024",
     desc: "As a Full-Stack Developer at Melot Group, I specialize in creating responsive and intuitive web applications. My expertise spans across front-end frameworks like Vue.js and React.js, while I utilize Node.js (Express.js), MongoDB Atlas, and AWS services for the backend infrastructure.With a profound understanding of responsive design principles and cross-browser compatibility, I prioritize adhering to industry best practices for code quality, testing, and documentation.Driven by the ambition to excel, I aim to emerge as a prominent figure in the Full-Stack Development domain.",
     skills: [
       "JavaScript",
@@ -151,7 +167,7 @@ export const experiences = [
     doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
   },
   {
-    id: 1,
+    id: 2,
     img: unifo,
     role: "Frontend Developer",
     company: "Unifo Pvt Ltd.",
@@ -168,7 +184,7 @@ export const experiences = [
     doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
   },
   {
-    id: 2,
+    id: 3,
     img: unifo,
     role: "Backend Developer",
     company: "Unifo Pvt Ltd.",
