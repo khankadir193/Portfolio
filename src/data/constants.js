@@ -9,11 +9,11 @@ export const Bio = {
     "Software Engineer",
     "FullStack Developer",
     "Programmer",
-    "Shayer"
+    // "Shayer"
   ],
   description:"I am an enthusiastic and adaptable individual, constantly seeking out new opportunities for growth. Fueled by a strong desire to expand my knowledge, I am committed to producing top-notch outcomes. With an optimistic outlook and a determination to embrace challenges, I am poised to make a valuable impact and attain remarkable accomplishments.",
   github: "https://github.com/khankadir193",
-  resume:"https://drive.google.com/file/d/15DFrthzE_GHLRoRVo6NP8zVDdV31urHZ/view?usp=sharing",
+  resume:"https://drive.google.com/file/d/1mboVhQcerbWRvhC75LhLY5hQcS_xEgyb/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/abdul-kadir-pathan5439/",
   twitter: "https://twitter.com/abdulkadir85646",
   insta: "https://instagram.com/abdul_kadir_pathan786?igshid=MzNlNGNkZWQ4Mg==",
